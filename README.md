@@ -2,7 +2,7 @@
  
  This is the Homepage of the created website for swag of India. I just made the homepage with HMTL,CSS,BOOTSTRAP,JAVASCRIT. The javascript I applied to the country flag and the mobile number to their respective country so that the country flag and thier mobile number change according to their country. In addition to that, I placed Arrow scroll bar at the end of the page so that it forwards to the top of the page when clicked.
  
- please check my webpage here : 
+ please check my webpage here : https://vigneshmanimaran.github.io/Homepage.github.io/
  
  Here I attched the screenshots of the webpage 
  
